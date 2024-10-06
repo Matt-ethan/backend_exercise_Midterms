@@ -1,0 +1,19 @@
+{
+  "name": "midterms_appdev",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "epxress": "^0.0.1-security",
+    "express": "^4.21.0",
+    "express-parser": "^1.0.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
